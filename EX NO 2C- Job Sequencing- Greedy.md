@@ -26,7 +26,7 @@ Your goal is to maximize total profit while completing the maximum number of job
 
 ## Algorithm:
 
-1.Input: Array of Job objects with id, deadline, and profit.
+1. Input: Array of Job objects with id, deadline, and profit.
 
 2. Sort jobs in descending order of profit.
 
