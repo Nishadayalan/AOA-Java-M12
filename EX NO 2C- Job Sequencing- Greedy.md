@@ -38,6 +38,10 @@ Your goal is to maximize total profit while completing the maximum number of job
 
 ## Program:
 ```
+Developed by: NISHA D
+Register Number: 212223230143
+
+
 import java.util.*;
 
 public class JobScheduling {
